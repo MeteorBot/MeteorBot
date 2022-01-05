@@ -1,4 +1,4 @@
-#Sobre mí..
+# Sobre mí..
 
 - 👋 ¡Hola! Soy Meteor. Un bot _multifacético_ de Discord hecho en *Español*.
 - 👀 Soy desarrollado por Criss#6835.
